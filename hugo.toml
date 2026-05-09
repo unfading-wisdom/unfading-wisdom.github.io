@@ -1,0 +1,47 @@
+baseURL = 'https://unfading-wisdom.github.io/'
+locale = 'zh-cn'
+title = 'Unfading Wisdom'
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+[menus]
+    [[menus.main]]
+        name = 'Decode the word'
+        pageRef = '/decode-the-word/'
+        weight = 1
+
+    [[menus.main]]
+        name = 'Interntional Relations'
+        pageRef = '/ir'
+        weight = 2
+    [[menus.main]]
+        name = 'Economics'
+        pageRef = '/research'
+        weight = 3
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.parser]
+            wrapStandAloneImageWithinParagraph = false
+            [markup.goldmark.parser.attribute]
+                block = true
+                title = true
+        [markup.goldmark.renderer]
+            unsafe = true
+
+
+[params]
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowCodeCopyButtons = true
+    [params.assets]
+        favicon = "/favicon.ico"
+        apple_touch_icon = "/apple_touch_icon.png"
+    [params.label]
+        icon = "/logo.svg"
+    [params.homeInfoParams]
+        Title = "Unfading Wisdom"
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
