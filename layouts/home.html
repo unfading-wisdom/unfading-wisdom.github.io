@@ -1,0 +1,29 @@
+{{- define "main" }}
+
+{{ range .Sections }}
+<section>
+    <header class="entry-header">
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}&nbsp;&nbsp;»</a></h2>
+        <div class="entry-content">
+            {{ .Summary | plainify | htmlUnescape }}
+        </div>
+    </header>
+
+    {{ range first 3 .Pages }}
+    <article class="post-entry">
+        <header class="entry-header">
+            <h3>{{ .LinkTitle }}</h3>
+        </header>
+        <div class="entry-content">
+            {{ .Summary | plainify | htmlUnescape }}
+        </div>
+        <footer class="entry-footer">
+            <span>{{ time.Format "2006-01-02" .Date }}</span>
+        </footer>
+        <a class="entry-link" href="{{ .RelPermalink }}"></a>
+    </article>
+    {{ end }}
+</section>
+{{ end }}
+
+{{- end }}
