@@ -7,9 +7,6 @@ keywords: []
 summary: 反思经济得失，探索作者提出的全球化寻租理论
 date: '2026-05-09'
 weight: 3
-params:
-  math: false
-  virtual: false
 ---
 
 

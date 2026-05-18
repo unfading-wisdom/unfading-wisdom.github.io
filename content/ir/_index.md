@@ -7,9 +7,6 @@ keywords: []
 summary: 从历史中寻找现状，从现状中思考未来
 date: '2026-05-09'
 weight: 2
-params:
-  math: false
-  virtual: false
 ---
 
 
