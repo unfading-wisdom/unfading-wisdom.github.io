@@ -6,6 +6,6 @@ isCJKLanguage: true
 keywords: []
 summary: 社会科学观察
 date: '2026-06-05'
-weight: 4
+weight: 2
 ---
 
