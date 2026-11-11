@@ -15,7 +15,7 @@ date: '2026-04-02'
 > Trump says "We don't need Middle Eastern oil, but we are helping our allies there."
 >
 > Trump says he ordered strikes on Iran's nuclear facilities after diplomacy failed, claiming the sites were "obliterated" and warning Tehran was rebuilding while advancing long-range missile capabilities that could threaten the U.S. and Europe. Other countries need to take care of Strait of Hormuz.
-> 
+>
 > Operation Epic Fury will continue "until our objectives are fully achieved," claiming Iran will be brought "back to the stone ages" while noting "regime change has occurred" due to the deaths of its original leaders.
 >
 > Trump says "We are going to hit them extremely hard over the next two to three weeks”.
@@ -84,12 +84,12 @@ IRGC 的各省分部（Provincial Units）拥有极大的自主权。
 
 “后通牒时代”中国的投机博弈表
 
-| 层面 | 文官政府 (德黑兰) | 地方军阀 (IRGC 残余) |
-| --- | --- | --- | --- |
-| 贸易性质 | 官方合同、基建贷款、本币结算。 | 地下易货、能源倒手、灰产供应。 |
-| 政治作用 | 国际法层面的遮羞布。 | 物理层面的能源供应点。 |
-| 对美态度 | 呼吁取消制裁、正常交往。 | 默认其存在，作为牵制美国的暗桩。 |
-| 最终目标 | 维持伊朗作为一个统一实体的壳。 | 确保油管和港口的实际运作。 |
+\| 层面 \| 文官政府 (德黑兰) \| 地方军阀 (IRGC 残余) \|
+\| --- \| --- \| --- \| --- \|
+\| 贸易性质 \| 官方合同、基建贷款、本币结算。 \| 地下易货、能源倒手、灰产供应。 \|
+\| 政治作用 \| 国际法层面的遮羞布。 \| 物理层面的能源供应点。 \|
+\| 对美态度 \| 呼吁取消制裁、正常交往。 \| 默认其存在，作为牵制美国的暗桩。 \|
+\| 最终目标 \| 维持伊朗作为一个统一实体的壳。 \| 确保油管和港口的实际运作。 \|
 
 这是“生意”，也是“防线”。
 本质上是中国在利用“制度溢出”和“产能过剩”去填补美军撤离后的权力真空。
@@ -105,8 +105,6 @@ IRGC 的各省分部（Provincial Units）拥有极大的自主权。
 
 “中东新加坡”是一个基于制度理性的优等生剧本，但在现实重力下，这个剧本几乎没有着陆点。
 现实世界里，它只会成为大国博弈的棋子，慢慢失血，直到核聚变时代被彻底抛弃。
-
-
 
 首先，“新加坡模式”的先决条件是大国真空。新加坡的成功建立在马六甲海峡的绝对安全，以及美苏冷战时期各方势力在该点的“势力均衡”之上。
 伊朗的困境则是它太大了，资源太丰富了。革命卫队（IRGC）军阀化，本质上是因为这块肥肉没人能一口吞下。
